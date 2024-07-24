@@ -1,0 +1,49 @@
+*{
+    font-family: "Open Sans", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+  
+}
+
+/* HEADER */
+
+#cuadro{
+    width: 20px;
+}
+
+nav{
+    display: flex;
+    justify-content: end;
+}
+
+/* MAIN */
+
+figure{
+    width: 20px;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+}
+
+#logo{
+    height: 92px;
+}
+
+#buscador{
+    display: flex;
+    
+}
+
+/* FOOTER */
+
+footer div{
+    display: flex;
+    justify-content: space-between;
+}
+
+ul li{
+    display: inline;
+}
+
